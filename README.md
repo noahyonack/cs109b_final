@@ -8,6 +8,6 @@ Final project for cs109b.
 * Milestone 4 submission link: [here](https://canvas.harvard.edu/courses/22060/assignments/140563?module_item_id=259173)
 * Milestone 5 submission link: [here](https://canvas.harvard.edu/courses/22060/assignments/140566?module_item_id=259174)
 
-# Explanation of our current set-up:
+### Explanation of our current set-up:
 * AWS is for training our neural nets
 * VMs are for ensuring that our local development stays consistent across machines. Your notebooks should execute on the VMs, not just on your host OS.
