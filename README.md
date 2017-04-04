@@ -19,3 +19,10 @@ heine@college.harvard.edu, turban@college.harvard.edu, noahyonack@college.harvar
 ### Explanation of our current set-up:
 * AWS is for training our neural nets
 * VMs are for ensuring that our local development stays consistent across machines. Your notebooks should execute on the VMs, not just on your host OS.
+
+### Group norms:
+* Use code comments
+* Open and clear communication
+* Keep things lighthearted
+* Hold yourself accountable
+* Work together in groups when possible
