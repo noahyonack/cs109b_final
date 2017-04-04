@@ -1,6 +1,14 @@
-# cs109b_final
-Final project for cs109b. 
+# CS109B Final Project
 
+### Team
+* Danny Zhuang
+* Luke Heine
+* Stephen Turban
+* Noah Yonack
+
+heine@college.harvard.edu, turban@college.harvard.edu, noahyonack@college.harvard.edu, danielzhuang@college.harvard.edu
+
+### Links
 * Final project set-up link: [here](https://docs.google.com/document/d/1AtDm6XmtWMQYQF1tARNLTYphpGIKRP_OsZ7rvoIR_MA/edit?usp=sharing)
 * Milestone 1 submission link: [here](https://canvas.harvard.edu/courses/22060/assignments/140298?module_item_id=258593)
 * Milestone 2 submission link: [here](https://canvas.harvard.edu/courses/22060/assignments/140557?module_item_id=259171)
