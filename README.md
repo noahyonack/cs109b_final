@@ -26,3 +26,10 @@ heine@college.harvard.edu, turban@college.harvard.edu, noahyonack@college.harvar
 * Keep things lighthearted
 * Hold yourself accountable
 * Work together in groups when possible
+
+### How to use git for this project:
+* Make sure you're on master (git checkout master)
+* Update your master copy (git pull)
+* Work on your own branch (git checkout -b <branch_name>)
+* Done working? Add your changes (git add .; git commit -m "message"; git push origin <branch_name>)
+* Then make a pull request on the GitHub page by switching to your master branch and pressing the pull request button. Merge master with your branch. 
