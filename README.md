@@ -33,3 +33,29 @@ heine@college.harvard.edu, turban@college.harvard.edu, noahyonack@college.harvar
 * Work on your own branch (git checkout -b <branch_name>)
 * Done working? Add your changes (git add .; git commit -m "message"; git push origin <branch_name>)
 * Then make a pull request on the GitHub page by switching to your master branch and pressing the pull request button. Merge master with your branch. 
+
+### Meeting with Zona (04/11/17)
+
+Best option: statrified sampling (dataset has a lot of dramas. try to classify dramas vs. non-dramas. Next, come up with significant pairs, so might be wise to join different genres into new genres. Join adventure, fantasy, and comedy to uplifting), or bi-clustering (trying to come up with a subset of rows in your dataset that exhibit similar behavior across the columns)
+
+Try to get rid of TV movies because they don't exist in significant portion. Same with unknowns. We might use those later as a validation set. 
+
+Multi-label is a good approach.
+
+Sampling is most important.
+
+Send her the repo link. 
+
+Stratified sampling: can't just randomly choose datapoitns. Have to divide dataset based on class. If you have 80% of data is dramas, you have to pick out a specific percentage from that class.
+
+This just makes sure that our sample set looks like our population. 
+
+In the next milestone #3, say we might try to incorporate priors.
+
+We have to sample because the posters are so large. 
+
+What model can run on the huge 700G poster dataset?
+
+Use 10 posters for now. Basic exploration. Need to figure out how to address the imbalance in the poster dataset. 
+
+Performed stratified sampling on the poster dataset and then match up with the metadata dataset by primary key. 
