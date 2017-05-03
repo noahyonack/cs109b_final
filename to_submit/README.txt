@@ -28,7 +28,7 @@ This is *similar* to the first part of Milestone 4, but it is more modular and m
 
 This is the same as the second part of Milestone 4. It contains the code we used to re-train a pre-trained model. We have not changed the code in this notebook because it was well done from the start. 
 
-6. Rnn+on+Text.ipynb
+6. RNNonText.ipynb
 
 This notebook is totally new (not found in other milestones), and it contains code that we wrote to build a recurrent neural network (RNN) to predict genre based on text data (such as movie plots and actor names).
 
